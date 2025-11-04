@@ -76,7 +76,7 @@ googleplaystore-analysis/
 
 ---
 
-## 📈 Expected Outcomes
+##  Expected Outcomes
 - Understand how different app categories perform over time.
 - Analyze the effect of monetization strategies on user satisfaction.
 - Explore relationships between ratings, installs, and app features.
@@ -84,5 +84,5 @@ googleplaystore-analysis/
 
 ---
 
-## 🧾 Credits
+##  Credits
 This project is conducted as part of the **Data Mining Course Project (Phase 1)** — analyzing and interpreting real-world app data.
