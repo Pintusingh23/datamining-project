@@ -2,5 +2,5 @@ Libraries used:
 pandas
 numpy
 matplotlib
-seaborn
+seaborn (sns)
 scikit-learn
