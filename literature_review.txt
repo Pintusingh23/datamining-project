@@ -1,0 +1,21 @@
+Literature Review - Smartphone Usage and App Trends
+===================================================
+
+This project is guided by prior research focusing on app ecosystem behavior, user engagement patterns, and fraudulent app activities within mobile marketplaces. The following studies provide the theoretical foundation and motivation for the questions and methods used in our analysis.
+
+1. Sovereignty of the Apps: There’s More to Relevance than Downloads (2016)
+--------------------------------------------------------------------------
+This research emphasizes that the number of downloads alone does not accurately reflect an application's real popularity or user retention. It highlights that consumer engagement, frequency of use, and long-term satisfaction are better indicators of app success. This supports our research objective of looking beyond install counts and examining rating behavior, review sentiment, and sustained category growth patterns.
+
+2. Fraud Mobile Apps Detection: A Bibliometric Analysis (2024)
+--------------------------------------------------------------
+This study discusses deceptive and fraudulent app behaviors seen in app marketplaces. It outlines how fake reviews, manipulated ratings, and artificially inflated download counts can mislead users and ranking systems. This paper supports our research direction regarding suspicious patterns in app metadata and emphasizes the importance of identifying abnormal app activity to ensure user trust and market transparency.
+
+Relevance to Our Project
+------------------------
+Both research papers collectively help define the analytical approach for our study:
+- The first paper supports our investigation into true user engagement through ratings and review quality.
+- The second paper informs our perspective on app authenticity and identifying red flags in app performance indicators.
+- Together, they shape our research questions around app popularity, satisfaction, and marketplace reliability.
+
+These references form the conceptual background for our exploratory and analytical methodology within the Google Play Store dataset project.
