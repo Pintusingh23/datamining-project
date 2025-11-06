@@ -14,8 +14,6 @@ Dataset Source: [Google Play Store Apps Dataset](https://www.kaggle.com/datasets
 - Samyak mittal
 - Suyash Parmar
 
-Each member will contribute via GitHub commits to ensure transparency and track individual effort.
-
 ---
 
 ## 📂 Project Structure
@@ -58,11 +56,10 @@ googleplaystore-analysis/
 
 2. **Phase 3** — Exploratory Analysis & Visualization  
    - Category-wise trends and download patterns  
-   - Correlation between ratings, installs, and price  
-
-3. **Phase 4** — Predictive Modeling  
+   - Correlation between ratings, installs, and price
    - Regression/classification models to predict app popularity  
-   - Visualize model performance and insights  
+   - Visualize model performance and insights 
+
 
 ---
 
