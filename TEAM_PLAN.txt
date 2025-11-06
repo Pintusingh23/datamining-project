@@ -1,0 +1,67 @@
+TEAM TOPIC – Smartphone Usage and App Trends Project
+
+Team Members
+
+Pintu Singh (230105)
+
+Samyak Mittal (230091)
+
+Suyash Parmar (230057)
+
+Team Roles
+
+Samyak Mittal (230091)
+
+Lead for Data Cleaning, EDA, and Visualization
+
+Responsibilities:
+
+Handle missing and outlier data
+
+Perform Exploratory Data Analysis (EDA)
+
+Create static and interactive plots (Plotly/Streamlit)
+
+Implement category-wise and type-wise top 5 app visualizations
+
+Prepare visual summaries for the final report and presentation
+
+Leadership Rotation: Week 2
+
+Pintu Singh (230105)
+
+Lead for Predictive Analysis and Model Development
+
+Responsibilities:
+
+Perform feature engineering (encoding categories, converting installs, etc.)
+
+Build predictive models (Linear Regression, Random Forest, etc.)
+
+Predict number of installs based on features such as rating, reviews, type, price, and category
+
+Evaluate model performance using R², RMSE, and other metrics
+
+Document methodology and model pipeline clearly
+
+Leadership Rotation: Week 1
+
+Takes charge of the Machine Learning and prediction work
+
+Suyash Parmar (230057)
+
+Lead for Documentation, Literature Review, and Hypothesis Formulation
+
+Responsibilities:
+
+Write the final project report and maintain TEAM_PLAN.txt
+
+Prepare research questions and formulate hypotheses
+
+Conduct literature review on smartphone usage and app trends
+
+Summarize EDA and predictive findings into insights
+
+Coordinate GitHub commits and presentation preparation
+
+Leadership Rotation: Week 3
