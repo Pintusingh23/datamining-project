@@ -1,0 +1,27 @@
+A. App Usage, Popularity & Market Dynamics
+
+1. How strongly do app install counts correlate with actual user engagement (active usage), and which categories show the largest mismatch?
+
+2. To what extent do app ratings reflect genuine user satisfaction, and how much are they influenced by marketing or network effects?
+
+3. Which smartphone app categories (e.g., Games, Social, Finance, Health) have shown the most growth in user adoption trends over recent years?
+
+4. How do monetization models (Free vs. Freemium vs. Paid apps) impact app rating trends and user feedback behavior?
+
+5. Are cultural or regional factors associated with differences in app category popularity (e.g., India prefers Entertainment while US prefers Finance apps)?
+
+
+B. Data Quality, Reviews & Consumer Perception
+
+6. How do user reviews reveal changing concerns over time (e.g., privacy, intrusive ads, performance issues, in-app purchases)?
+
+7. Can we identify patterns linking app size, required permissions, or update frequency to higher user satisfaction and retention?
+
+
+C. Security, Fraud & Trustworthiness
+
+8. What signals (e.g., abnormal rating spikes, repetitive review patterns, suspicious install counts) can indicate fraudulent or manipulated app popularity?
+
+9. How effective are machine learning models in detecting fraudulent or malicious apps based on metadata (permissions, reviews, app behavior)?
+
+10. How should app stores improve transparency and security measures to reduce the spread of deceptive or harmful applications?
