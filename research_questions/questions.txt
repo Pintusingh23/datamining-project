@@ -11,6 +11,7 @@ A. App Usage, Popularity & Market Dynamics
 5. Are cultural or regional factors associated with differences in app category popularity (e.g., India prefers Entertainment while US prefers Finance apps)?
 
 
+
 B. Data Quality, Reviews & Consumer Perception
 
 6. How do user reviews reveal changing concerns over time (e.g., privacy, intrusive ads, performance issues, in-app purchases)?
