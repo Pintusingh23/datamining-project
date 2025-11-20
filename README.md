@@ -7,30 +7,12 @@ This project explores the Google Play Store Apps Dataset to understand trends ac
 
 👩‍💻 Team Members
 
-Pintu Singh (Team Lead)
+Pintu Singh
 
 Samyak Mittal
 
 Suyash Parmar
 
-📂 Project Structure
-googleplaystore-analysis/
-│
-├── data/
-│   ├── googleplaystore.csv
-│   └── cleaned_googleplaystore.csv
-│
-├── notebooks/
-│   ├── phase1_analysis.ipynb
-│   ├── descriptive_analysis.ipynb
-│   └── eda_plan.ipynb
-│
-├── reports/
-│   └── data_summary.txt
-│
-├── README.md
-├── requirements.txt
-└── .gitignore
 
 🎯 Project Overview
 
